@@ -2,7 +2,7 @@
 # Social Media API
   ![Badge](https://img.shields.io/badge/License-APACHE-blue.svg)
   ## Description
-  This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and native JavaScript Date object to format timestamps.
+  This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and a date library to format timestamps.
 ## Table of Content
 - [Installation](#installation)
 - [Usage](#usage)
