@@ -1,5 +1,4 @@
-# social-network-api
-social-network-api
+
 # Social Media API
   ![Badge](https://img.shields.io/badge/License-APACHE-blue.svg)
   ## Description
