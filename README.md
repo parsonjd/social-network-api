@@ -15,6 +15,8 @@ social-network-api
   Clone the repository from github.  Ensure to download and connect to MongoDB.  Run npm install to download all the dependencies including, express, mongoose, and a date library of your choice. Then use Insomnia for all testing.
 ## Usage
   All the routes and testing of the appliction is done through  insomnia.  Please check out the walkthrough demonstration at:
+  
+  [![Chat.png](https://i.postimg.cc/g2YT63HY/Chat.png)](https://postimg.cc/KRHN6kWV)
 ## License
     This application is covered by the APACHE license.
 ## Contributing
